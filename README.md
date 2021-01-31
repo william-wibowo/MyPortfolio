@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Portofolio
+Hi! My name is William Wibowo Ciptono, people usually call me William. In this repository, I will show you some projects that I have done over the last few month.  
+Please enjoy!
 
-You can use the [editor on GitHub](https://github.com/lgamal/portofolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Mas Trendy Discord bot
+**Mas Trendy** is an Open Source, *Google-trend & Google-search* powered Discord Bot. Equipped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notifaction** to search current trends in each country. This project is written on Python language with help of several packages such as Discord.py, Pytrends, and so on.  
+Feel free to check this project on [this link](https://github.com/lgamal/MasTrendy)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's some picture of Mas Trendy in action
 
-### Markdown
+![Image Mas Trendy 1](https://github.com/lgamal/portofolio/blob/main/mastrendy_screenshot_1.png)
+![Image Mas Trendy 2](https://github.com/lgamal/portofolio/blob/main/mastrendy_screenshot_2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Payment Matching - ID NDSC 2020
+This is a Payment Matching case that was contested a few months ago at NDSC(National Data Science Competition) 2020. In this competition, I used fuzzywuzzy packages helps to gain the levenshtein score from the buyer name & description. Based on the levenshtein score, I can finally have some clue about which customer do which transaction. At the end, I submited a late submission and succesfully got a 0.9944 Public Score & 0.99433 Private Score. Here's [the link](https://www.kaggle.com/lgamal/payment-matching/) to my kaggle notebook.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lgamal/portofolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Market Basket - ID NDSC 2020
+On the previous NDSC(National Data Science Competition) 2020 event, there's a market basket analysis case. I grouped orderid based on customerid to make the matching process more easier. At the end, I submited a late submission and succesfully got a 1.0 Public Score & 1.0 Private Score. Here's [the link](https://www.kaggle.com/lgamal/market-basket) to my kaggle notebook.
