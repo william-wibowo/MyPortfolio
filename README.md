@@ -1,4 +1,3 @@
-# Portofolio
 Hi! My name is William Wibowo Ciptono, people usually call me William. In this repository, I will show you some projects that I have done over the last few month.  
 Please enjoy!
 
