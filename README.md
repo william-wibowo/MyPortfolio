@@ -2,7 +2,7 @@ Hi! My name is William Wibowo Ciptono, people usually call me William. In this r
 Please enjoy!
 
 
-# :sparkles:Summary:sparkles:
+# Summary
 1. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
 2. [Titanic - **Machine Learning practice with CatBoost**](/titanic/__results___34_1.png)
 3. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
@@ -30,7 +30,7 @@ g = sns.FacetGrid(train, col="Survived", row="Sex")
 g.map(plt.hist,"Fare")
 ```
 
-![Image Titanic Visualization 1](/titanic/__results___34_1.png)
+![Image Titanic Visualization 1](/titanic/"__results___34_1.png")
 
 Feature | Feature Importance Score
 --------| ------------------------
