@@ -30,7 +30,7 @@ g = sns.FacetGrid(train, col="Survived", row="Sex")
 g.map(plt.hist,"Fare")
 ```
 
-![Image Titanic Visualization 1](/titanic/__results___34_1.png?raw=true)
+![Image Titanic Visualization 1](/titanic/Number of surviving passenger based on gender and fare.png)
 
 Feature | Feature Importance Score
 --------| ------------------------
