@@ -4,7 +4,7 @@ Please enjoy!
 
 # Summary
 1. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
-2. [Titanic - **Machine Learning practice with CatBoost**](/titanic/__results___34_1.png)
+2. [Titanic - **Machine Learning practice with CatBoost**](https://www.kaggle.com/lgamal/titanic-case)
 3. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
 4. [**Market Basket** - ID NDSC 2020](https://www.kaggle.com/lgamal/market-basket)
 
@@ -30,7 +30,7 @@ g = sns.FacetGrid(train, col="Survived", row="Sex")
 g.map(plt.hist,"Fare")
 ```
 
-![Image Titanic Visualization 1](/lgamal/portofolio/blob/main/titanic/__results___34_1.png?raw=true)
+![Image Titanic Visualization 1](/titanic/__results___34_1.png?raw=true)
 
 Feature | Feature Importance Score
 --------| ------------------------
