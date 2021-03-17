@@ -21,7 +21,7 @@ Please enjoy!
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 In this mini case, which held on **Kaggle.com**, we got to answer **“what sorts of people were more likely to survive?”** using the available passenger data (in total **891** rows of train data & **418** test data set).
 
-To answer that question, I've made a simple machine learning model using the boosting method with the help of `Catboost`(gradient boosting framework lib). To help improve the accuracy score, I also applied some `Data Preparation Technique`(Data cleaning, Filling Missing Value, etc.) and did some `Feature Engineering`. In this project, I have managed to acquired **77.9% accuracy score**. Feel free to check the notebook on [this link](https://www.kaggle.com/lgamal/titanic-case).
+To answer that question, I've made a simple machine learning model using the boosting method with the help of `Catboost`(gradient boosting framework lib). To help improve the accuracy score, I also applied some `Data Preparation Technique`(Data cleaning, Filling Missing Value, etc.) and did some `Feature Engineering` such as ("Lowfare" label to identify people who board with less than $50 fare and "Age band" to classified people based on their ages). In this project, I have managed to acquired **78.229% accuracy score**. Feel free to check the notebook on [this link](https://www.kaggle.com/lgamal/titanic-case).
 
 #### Here's some sneak peek of the project result
 
@@ -34,13 +34,17 @@ g.map(plt.hist,"Fare")
 
 Feature | Feature Importance Score
 --------| ------------------------
-Pclass|18.179660
-Sex|61.078684
-SibSp|4.288450
-Parch|1.915523
-Age|5.854512
-Embarked|5.109940
-Lowfare|3.573231
+Sex|55.060701
+SibSp|5.747522
+Parch|6.197176
+Age|8.180586
+Lowfare|1.597320
+Pclass_1|6.741240
+Pclass_2|2.400222
+Pclass_3|11.207736
+Embarked_C|0.606663
+Embarked_Q|0.592664
+Embarked_S|1.668170
 
 
 ## Payment Matching - ID NDSC 2020
