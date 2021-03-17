@@ -17,7 +17,7 @@ Please enjoy!
 ![Image Mas Trendy 1](/mastrendy_screenshot_1.png)
 ![Image Mas Trendy 2](/mastrendy_screenshot_2.png)
 
-## Titanic - Machine Learning practice with CatBoost
+## Titanic - Machine Learning Prediction/Classification with CatBoost Model
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 In this mini case, which held on **Kaggle.com**, we got to answer **“what sorts of people were more likely to survive?”** using the available passenger data (in total **891** rows of train data & **418** test data set).
 
