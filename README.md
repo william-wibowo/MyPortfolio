@@ -1,13 +1,24 @@
-Hi! My name is William Wibowo Ciptono, people usually call me William. In this repository, I will show you some projects that I have done over the last few months.  
-Please enjoy!
+# Portofolio
+<div align="justify">
+Hi, there! My name is William Wibowo Ciptono, people usually call me William. I'm from Indonesia and currently still on the way to finishing my Industrial Engineering degree at Bandung Institute of Technology. In this repository, I'm going to show you some of the projects that I have been working on over the last few months. If you have any interest to collaborating with me or anything, feel free to drop a DM at my linkedin account which can be accessed on <a href="https://www.linkedin.com/in/williamwibowo/">this link</a>. Enjoy!</div>
 
 
 # Summary
-1. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
-2. [Titanic - **Machine Learning practice with CatBoost**](https://www.kaggle.com/lgamal/titanic-case)
-3. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
-4. [**Market Basket** - ID NDSC 2020](https://www.kaggle.com/lgamal/market-basket)
+1. **[Hotel Booking Cancelation Prediction with Random Forest Model](https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model)**
+2. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
+3. [Titanic - **Machine Learning practice with CatBoost**](https://www.kaggle.com/lgamal/titanic-case)
+4. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
+5. [**Market Basket** - ID NDSC 2020](https://www.kaggle.com/lgamal/market-basket)
 
+## Hotel Booking Cancelation Prediction Model with Random Forest Model
+<div align="justify">
+At the pandemic era that emerged in 2020, the hospitality industry has become one of the most affected industries. Based on McKinsey's prediction in one of theirs article that has been posted on June 10, 2020, it was stated that there was more than a 50% decrease in total revenue of the hospitality industry in America (Krishnan, 2020). They also predicted that there will be a 'rebound era' or 'recovery era' that will happen from 2023 to 2024, where all of the revenue will slowly improving to the previous pre-pandemic state. <br/><br/>
+By able to predict the hotel booking cancelation, the hospitality industries will be able to manage their budget on marketing better and make the most profit from each order. On the other side, knowing which order will be canceled also helps the hospitality industries to improve their service quality by preventing any conflictual overbook. <br/><br/>
+On this project, I have managed to choose the best models which gives a <b>83.56% f1 score accuracy</b> result. Those result are obtained by using <b>random forest</b> model and performing feature selection techniques over the feature engineered predictive variables and also hyperparameter tuning process as the cherry on top. The following is a diagram about the research outline. More info about this project can be accessed on <a href="https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model">this link</a>.
+</div>
+<div align="center">
+<img src="https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model/blob/main/visualisasi%20metode%20penelitian.png" alt="the research outline">
+</div>
 
 ## Mas Trendy Discord bot
 **Mas Trendy** is an Open Source, `Google trend & Google search` powered `Discord Bot`. Equipped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notification** to search current trends in each country. This project is written on Python language with help of several packages such as Discord.py, Pytrends, and so on. Feel free to check this project on [this link](https://github.com/lgamal/MasTrendy).
