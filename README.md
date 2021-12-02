@@ -36,30 +36,6 @@ In this mini case, which held on **Kaggle.com**, we got to answer **“what sort
 
 To answer that question, I've made a simple machine learning model using the boosting method with the help of `Catboost`(gradient boosting framework lib). To help improve the accuracy score, I also applied some `Data Preparation Technique`(Data cleaning, Filling Missing Value, etc.) and did some `Feature Engineering` such as ("Lowfare" label to identify people who board with less than $50 fare and "Age band" to classified people based on their ages). In this project, I have managed to acquired **78.229% accuracy score**. Feel free to check the notebook on [this link](https://www.kaggle.com/lgamal/titanic-case).
 
-#### Here's some sneak peek of the project result
-
-```Python
-g = sns.FacetGrid(train, col="Survived", row="Sex")
-g.map(plt.hist,"Fare")
-```
-
-![Image Titanic Visualization 1](/titanic/Visualization_1.png)
-
-Feature | Feature Importance Score
---------| ------------------------
-Sex|55.060701
-SibSp|5.747522
-Parch|6.197176
-Age|8.180586
-Lowfare|1.597320
-Pclass_1|6.741240
-Pclass_2|2.400222
-Pclass_3|11.207736
-Embarked_C|0.606663
-Embarked_Q|0.592664
-Embarked_S|1.668170
-
-
 ## Payment Matching - ID NDSC 2020
 This is a Payment Matching case that was contested a few months ago at NDSC(National Data Science Competition) 2020. In this competition, I used `fuzzywuzzy` packages helps to gain the ***Levenshtein score*** from the `buyer name` & `transaction description`. Based on the Levenshtein score, I can finally have some clue about which customer do which transaction. In the end, I submitted a late submission and successfully got a **0.9944 Public Score** & **0.99433 Private Score**. Here's [the link](https://www.kaggle.com/lgamal/payment-matching/) to my Kaggle notebook.
 
