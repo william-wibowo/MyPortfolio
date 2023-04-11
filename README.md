@@ -1,16 +1,36 @@
 # Introduction
 <div align="justify">
-Hi, there! My name is William Wibowo Ciptono, people usually call me William. I'm from Indonesia and currently still on the way to finishing my Industrial Engineering degree at Bandung Institute of Technology. In this repository, I'm going to show you some of the projects that I have been working on over the last few months. If you have any interest to collaborating with me or anything, feel free to drop a DM at my linkedin account which can be accessed on <a href="https://www.linkedin.com/in/williamwibowo/">this link</a>. Enjoy!</div>
+Hi, there! My name is William Wibowo Ciptono, people usually call me William. I'm an Industrial Engineer who loves to code & improving business process by utilizing things that I've code. In this repository, I'm going to show you some of the projects that I have been working on over the last few months. If you have any interest to collaborating with me or anything, feel free to drop a DM at my linkedin account which can be accessed on <a href="https://www.linkedin.com/in/williamwibowo/">this link</a>. Enjoy!</div>
 <div align="center">
 <img src="https://github.com/lgamal/portofolio/blob/main/William%20profile%20picture.jpg?raw=true" alt="William Profile Picture" width = 500px height = auto>
 </div>
-  
-# Summary
+
+## Web & Software Development Related
+1. **[Blanche (e-commerce) Gin Golang - Backend](https://github.com/azidanit/Blanche-E-Commerce-Back-End-Golang-Gin-Gorm)**
+1. **[Blanche (e-commerce) React TS Admin - Frontend](https://github.com/azidanit/Blanche-Admin-E-Commerce-Front-End-React-TS)**
+1. **[Blanche (e-commerce) React TS User - Frontend](https://github.com/azidanit/Blanche-E-Commerce-Front-End-React-TS)**
+2. **[Sushee (online food delivery service) Gin Golang - Backend](https://github.com/lgamal/lgamal-backend-sushee)** 
+3. **[Sushee (online food delivery service) React TS - Frontend](https://github.com/lgamal/lgamal-frontend-sushee)** 
+4. **[Golang E-wallet API - Backend](https://github.com/lgamal/ewallet)** 
+5. **[Web Chat using Socket.io](https://github.com/lgamal/Socket.io-WebChat)**
+6. **[Task Manager API - Backend](https://github.com/lgamal/TaskManagementApps)**
+7. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
+
+## Data Analytics Related
 1. **[Hotel Booking Cancelation Prediction with Random Forest Model](https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model)**
-2. **[Mas Trendy Discord Bot](https://github.com/lgamal/MasTrendy)**
-3. [Titanic - **Machine Learning practice with CatBoost**](https://www.kaggle.com/lgamal/titanic-case)
-4. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
-5. [**Market Basket** - ID NDSC 2020](https://www.kaggle.com/lgamal/market-basket)
+2. [Titanic - **Machine Learning practice with CatBoost**](https://www.kaggle.com/lgamal/titanic-case)
+3. [**Payment Matching** - ID NDSC 2020](https://www.kaggle.com/lgamal/payment-matching/)
+4. [**Market Basket** - ID NDSC 2020](https://www.kaggle.com/lgamal/market-basket)
+
+# Highlights
+
+## Mas Trendy Discord bot
+**Mas Trendy** is an Open Source, `Google trend & Google search` powered `Discord Bot`. Equipped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notification** to search current trends in each country. This project is written on Python language with help of several packages such as Discord.py, Pytrends, and so on. Feel free to check this project on [this link](https://github.com/lgamal/MasTrendy).
+
+#### Here's some picture of Mas Trendy in action
+
+![Image Mas Trendy 1](/mastrendy_screenshot_1.png)
+![Image Mas Trendy 2](/mastrendy_screenshot_2.png)
 
 ## Hotel Booking Cancelation Prediction Model with Random Forest Model
 <div align="justify">
@@ -21,14 +41,6 @@ On this project, I have managed to choose the best models which gives a <b>83.56
 <div align="center">
 <img src="https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model/blob/main/visualisasi%20metode%20penelitian.png?raw=true" alt="the research outline">
 </div>
-
-## Mas Trendy Discord bot
-**Mas Trendy** is an Open Source, `Google trend & Google search` powered `Discord Bot`. Equipped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notification** to search current trends in each country. This project is written on Python language with help of several packages such as Discord.py, Pytrends, and so on. Feel free to check this project on [this link](https://github.com/lgamal/MasTrendy).
-
-#### Here's some picture of Mas Trendy in action
-
-![Image Mas Trendy 1](/mastrendy_screenshot_1.png)
-![Image Mas Trendy 2](/mastrendy_screenshot_2.png)
 
 ## Titanic - Machine Learning Prediction/Classification with CatBoost Model
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
